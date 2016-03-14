@@ -49,3 +49,6 @@ public static void main(String[]args) {
 	    }
 	}
 }
+
+// 1. Why equalsIgnoreCase
+// 2. Please output more informative info
