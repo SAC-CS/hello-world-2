@@ -39,3 +39,5 @@ public class RockPaperScissors{
 }
 }
 }
+
+//Good job...please see if you can allow user to use R/P/S instead
